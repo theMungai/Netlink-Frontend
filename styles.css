@@ -720,7 +720,7 @@ span.num{
 .testimonials{
     width: 100%;
     margin: 20px auto;
-    background: linear-gradient(45deg,rgba(0,0,0,0.7), rgba(34, 140, 202, 0.692)),url(/images/testimonials-background.jpeg);
+    background: linear-gradient(45deg,rgba(0,0,0,0.7), rgba(34, 140, 202, 0.692)),url(testimonials-background.jpeg);
     position: relative;
 }
 
